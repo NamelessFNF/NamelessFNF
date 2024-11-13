@@ -2,8 +2,8 @@
 ### Hi! Name's Luís Costa (prerably Lumis online) 🧡
 ### So uh, you´re probably here to know more about me, fair enough!
 
-- I'm a [Alura Course](https://www.alura.com.br) student
-- First experience was with Haxe [(ref)](https://github.com/NamelessFNF/Plasm-Funkin-Source-Code), now studying JavaScript
+- I'm a [Alura Course](https://www.alura.com.br) student;
+- First experience was with Haxe [(ref)](https://github.com/NamelessFNF/Plasm-Funkin-Source-Code) in game modding, now studying JavaScript (HTML and CSS),
 - Here's the place where I'll store and share the course projects now!
 
 ### Want more details and my socials? Here's my carrd c; https://lumiscostta.carrd.co/
